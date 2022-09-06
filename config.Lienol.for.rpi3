@@ -4467,8 +4467,8 @@ CONFIG_PACKAGE_luci-app-ramfree=y
 # CONFIG_PACKAGE_luci-app-smartdns is not set
 CONFIG_PACKAGE_luci-app-snmpd=y
 # CONFIG_PACKAGE_luci-app-socat is not set
-#CONFIG_PACKAGE_luci-app-softether=y
-#CONFIG_PACKAGE_luci-app-softethervpn=y
+# CONFIG_PACKAGE_luci-app-softether=y
+CONFIG_PACKAGE_luci-app-softethervpn=y
 # CONFIG_PACKAGE_luci-app-splash is not set
 # CONFIG_PACKAGE_luci-app-sqm is not set
 # CONFIG_PACKAGE_luci-app-squid is not set
